@@ -3,8 +3,8 @@
 #  Copyright (c) 2018 SCION Gael (https://www.gael67350.eu)
 #
 
-from zermapi.ZermApi import ZermApi
 # -*- coding: utf-8 -*-
+from zermapi.ZermApi import ZermApi
 from zermapi.objects.Response import Response
 
 
